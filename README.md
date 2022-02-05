@@ -1,2 +1,4 @@
-# fakesbetpublic
-Public repo of Fakes Bet
+# fakesbet
+fakes.bet source code
+
+NOT FOR REDISTRIBUTION
