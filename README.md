@@ -1,4 +1,4 @@
 # fakesbet
-fakes.bet source code
+fakes.bet public source code without server files.
 
 NOT FOR REDISTRIBUTION
